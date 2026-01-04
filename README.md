@@ -23,5 +23,3 @@ Penggunaan GitHub bertujuan untuk:
 - Dokumentasi yang rapi dan terstruktur
 - Version control
 - Transparansi dan kemudahan evaluasi
-
-## Struktur Folder
